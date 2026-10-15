@@ -1,7 +1,5 @@
 # Awesome-2D-Animation-Software
 
-# Awesome-2D-Animation-Software
-
 ## Top 2D Animation Software Ecosystem
 
 **Curated List of Commercial Products & Open-Source GitHub Projects**
@@ -10,206 +8,81 @@
 
 **Last updated: October 2026**
 
-
-
 This repository tracks notable **commercial platforms** and **open-source projects** for **2D Animation Software**. These tools support frame-by-frame drawing, cut-out / puppet animation, vector and raster workflows, lip-sync, effects, and full production pipelines used in studios, independent creators, and education.
-
-
-
-**Examples** include Toon Boom Harmony, Adobe Animate, Moho Pro, TVPaint Animation, CelAction2D, OpenToonz Pro, Synfig Studio, Cartoon Animator, Clip Studio Paint, and Pencil2D (the category leaders).
-
-
-
-**Open-source emphasis**: The 2D animation space has several mature, production-capable open-source tools. **OpenToonz** (with Studio Ghibli heritage), **Synfig Studio**, **Pencil2D**, **Blender Grease Pencil**, **Krita**, and related projects form a strong free alternative ecosystem. This section is heavily expanded.
-
-
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-
-
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS / Commercial Platforms](#saas--commercial-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+---
 
+## Sector Overview & Market Dynamics
 
-## SaaS/Hosted Platforms
+The global 2D animation software sector is estimated at **$2.7B to $4.8B** (projected to reach over **$7.5B** at a 5–8% CAGR), propelled by rising OTT streaming pipelines, gaming, social media content, and digital advertising. The market is **highly fragmented** across specialized traditional/hand-drawn suites, vector rigging engines, cloud-based video generators, and a powerful ecosystem of production-grade open-source tools—leaving no single vendor with a winner-take-all monopoly.
 
-- **[Toon Boom Harmony](https://www.toonboom.com/products/harmony)**  
+---
 
-  Industry-standard professional 2D animation software used by major studios for cut-out, traditional, and hybrid pipelines with advanced rigging, effects, and collaboration features.
+## SaaS / Commercial Platforms
 
+| Product | Description | Valuation / Revenue (Company Size) | Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Animate](https://www.adobe.com/products/animate.html)** | Versatile vector animation, frame-by-frame drawing, and interactive web/HTML5 export platform integrated with Adobe Creative Cloud. | **~$94B Market Cap** (Adobe Inc., NASDAQ: ADBE; ~$21B+ annual revenue) | From **$22.99/mo** (Annual plan, paid monthly) or **$34.49/mo** (Monthly plan) | **7-day free trial** (Full unrestricted access to all features; payment details required, auto-renews unless canceled). |
+| **[Toon Boom Harmony](https://www.toonboom.com/products/harmony)** | Premium studio-standard 2D animation suite with advanced rigging, node compositing, and hybrid paperless workflows. | **$111.4M ($147.5M CAD) Acquisition Valuation** (Acquired by IMC/TPG from Corus Entertainment in 2023) | **Essentials:** From **$22/mo** billed annually ($259/yr) or **$31/mo**; **Advanced:** $51/mo; **Premium:** $97/mo | **14-day free trial** (Full feature access to downloaded tier; single-use per version/machine). |
+| **[Clip Studio Paint](https://www.clipstudio.net/en/)** | Leading illustration and animation package supporting raster/vector drawing, onion skinning, and multi-track animation. | **~$45M Annual Recurring Revenue** (Celsys, Inc., TYO: 3663; ~6.6B JPY ARR) | **PRO:** From **$2.25/mo** ($26.99/yr) or **$4.49/mo** (or $63 one-time perpetual); **EX:** From $76.99/yr | **30-day free trial** (or up to 3 months with recurring plans; unrestricted trial, reverts to non-saving/non-exporting mode thereafter). Smartphone plans offer 30 hrs/month free. |
+| **[Vyond](https://www.vyond.com/)** | Cloud-based enterprise 2D animated video creation suite featuring AI lip-sync, customizable characters, and template workflows. | **~$35M ARR** (GoAnimate, Inc.; privately held, enterprise market leader) | **Essential/Starter:** From **$49/mo** ($588/yr) or **$89/mo**; **Professional:** From $100/mo ($1,199/yr) | **14-day free trial** (Includes trial credit allocation and full studio tools; all video exports include a watermark). |
+| **[Moho Pro](https://moho.lostmarble.com/)** | Cut-out and puppet animation workstation renowned for bone rigging, smart warp, physics engine, and bitmap/vector blending. | **~$15M - $20M Valuation** (Lost Marble LLC; established independent studio software vendor) | **Moho Debut:** **$59.99** one-time perpetual; **Moho Pro:** **$399.99** one-time perpetual | **30-day free trial** (Full tool access, but file export is disabled, imports restricted, and renders watermarked). |
+| **[Animaker](https://www.animaker.com/)** | Web-hosted DIY 2D animation and explainer video platform featuring drag-and-drop character animation and extensive asset libraries. | **~$10M - $15M ARR** (Animaker Inc.; bootstrapped private SaaS serving 18M+ users) | **Basic:** From **$12.50/mo** ($150/yr) or **$24/mo**; **Starter:** From $25/mo; **Pro:** From $49/mo | **Free-for-ever plan** (Limited to 5 watermarked downloads/mo, 720p quality, 5-minute video length, standard assets). Also offers 7-day Pro trials. |
+| **[Cartoon Animator](https://www.reallusion.com/cartoon-animator/)** | 2D character animation workstation specializing in rapid puppet animation, 360-degree head creation, motion capture, and audio lip-sync. | **~$8M Revenue** (Reallusion Inc., TPEX: 6882; ~252M TWD annual revenue) | **Cartoon Animator 5:** **$149.00** one-time perpetual (or **$99/yr** subscription for CA 365 Pro) | **30-day free trial** (Full functional access to rigging, animation tools, and mocap trial plugins for 30 days). |
+| **[TVPaint Animation](https://www.tvpaint.com/)** | Bitmap-based traditional frame-by-frame 2D animation package favored by European and Japanese animation studios for hand-drawn aesthetics. | **~$5M - $10M Revenue** (TVPaint Developpement; privately held French specialist) | **Standard:** **€650 (~$700 USD)** one-time perpetual; **Professional:** **€1,600 (~$1,740 USD)** one-time perpetual | **Unlimited-time free trial** (Trial has no expiration date, but project saving and file exporting are completely disabled). |
+| **[CelAction2D](https://www.celaction.com/)** | Specialized production-scale 2D puppet animation tool powering broadcast series (e.g., Peppa Pig, Mr Bean). | **~$2M - $5M Revenue** (CelAction Ltd; boutique UK animation production software company) | **Studio Rental:** From **$100/mo** (£80/mo) or **$825/yr** (£660/yr) | **No public free trial** (Studio demonstration kits provided on request upon contacting sales for qualified production houses/pros). |
 
-
-- **[Adobe Animate](https://www.adobe.com/products/animate.html)**  
-
-  Versatile 2D animation and interactive media tool from Adobe, supporting vector animation, frame-by-frame drawing, HTML5 Canvas, WebGL, and integration with the Creative Cloud ecosystem.
-
-
-
-- **[Moho Pro (Anime Studio)](https://moho.lostmarble.com/)**  
-
-  Powerful 2D animation software specializing in bone-based cut-out animation, smart warp, physics, and efficient character rigging for independent and professional productions.
-
-
-
-- **[TVPaint Animation](https://www.tvpaint.com/)**  
-
-  High-end bitmap-focused 2D animation software favored for traditional frame-by-frame work, with excellent drawing tools, custom brushes, and multi-plane camera support.
-
-
-
-- **[CelAction2D](https://www.celaction.com/)**  
-
-  Specialized 2D animation software widely used in children’s television production for efficient cut-out and limited animation workflows.
-
-
-
-- **[OpenToonz Pro / commercial support offerings](https://opentoonz.github.io/e/)**  
-
-  Commercial support, training, and enhanced distributions built around the open-source OpenToonz core (originally developed with Studio Ghibli involvement).
-
-
-
-- **[Cartoon Animator (CrazyTalk Animator)](https://www.reallusion.com/cartoon-animator/)**  
-
-  User-friendly 2D character animation tool focused on rapid puppet animation, motion libraries, lip-sync, and content creation for non-traditional animators.
-
-
-
-- **[Clip Studio Paint](https://www.clipstudio.net/en/)**  
-
-  Popular digital painting and comic/manga creation software with robust 2D animation timeline, onion skinning, and drawing tools widely used by illustrators and independent animators.
-
-
-
-- **[Pencil2D (commercial/hosted variants & related services)](https://www.pencil2d.org/)**  
-
-  While the core is open-source, related commercial training, asset packs, and hosted educational offerings exist around the Pencil2D ecosystem.
-
-
-
-- **[Other professional 2D animation suites](https://www.toonboom.com/)**  
-
-  Additional commercial tools and studio pipeline integrations used for feature film, series, and advertising 2D production.
-
-
+---
 
 ## Open-Source GitHub Projects
 
-- **[OpenToonz](https://github.com/opentoonz/opentoonz)**  
+*Curated open-source animation engines, standalone suites, programmatic frameworks, and pixel-art tools sorted by GitHub star counts.*
 
-  Production-grade open-source 2D animation software with roots in Studio Ghibli’s pipeline (derived from Toonz). Supports traditional and digital workflows, effects, xsheet, and scanning integration.
+| Project | Stars | Description |
+| :--- | :--- | :--- |
+| **[Remotion](https://github.com/remotion-dev/remotion)** | [![Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers) | Programmatic video and 2D animation framework allowing developers to build frame-accurate animated graphics and videos using React, HTML, CSS, and Canvas. |
+| **[Aseprite](https://github.com/aseprite/aseprite)** | [![Stars](https://img.shields.io/github/stars/aseprite/aseprite?style=social&color=white)](https://github.com/aseprite/aseprite/stargazers) | Industry-standard animated sprite editor and pixel art tool featuring onion skinning, timeline layers, tilesets, and frame-by-frame game animation. |
+| **[Lottie Web](https://github.com/airbnb/lottie-web)** | [![Stars](https://img.shields.io/github/stars/airbnb/lottie-web?style=social&color=white)](https://github.com/airbnb/lottie-web/stargazers) | Cross-platform runtime and web player that renders vector 2D animations exported from animation tools natively across Web, iOS, and Android. |
+| **[Blender (Grease Pencil)](https://github.com/blender/blender)** | [![Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) | Comprehensive open-source 3D suite featuring the powerful Grease Pencil system for full 2D hand-drawn animation, vector sculpting, and hybrid 2D/3D studio pipelines. |
+| **[Motion Canvas](https://github.com/motion-canvas/motion-canvas)** | [![Stars](https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social&color=white)](https://github.com/motion-canvas/motion-canvas/stargazers) | Code-driven 2D animation toolkit and visual editor for creating programmatic motion graphics, interactive diagrams, and technical animations via TypeScript. |
+| **[Krita](https://github.com/KDE/krita)** | [![Stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers) | Full-featured digital sketching and painting workstation with built-in frame-by-frame raster animation timeline, audio playback, onion skinning, and export tools. |
+| **[OpenToonz](https://github.com/opentoonz/opentoonz)** | [![Stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers) | Production-grade 2D animation suite based on the software customized by Studio Ghibli, featuring x-sheets, scanning, vector/bitmap drawing, effects, and camera work. |
+| **[Synfig Studio](https://github.com/synfig/synfig)** | [![Stars](https://img.shields.io/github/synfig/synfig?style=social&color=white)](https://github.com/synfig/synfig/stargazers) | Film-quality 2D vector animation software designed to eliminate manual in-betweening via automatic morphing tweening, cutout bone rigging, and parametric layers. |
+| **[Pencil2D](https://github.com/pencil2d/pencil)** | [![Stars](https://img.shields.io/github/stars/pencil2d/pencil?style=social&color=white)](https://github.com/pencil2d/pencil/stargazers) | Lightweight, accessible application for traditional hand-drawn 2D animation, featuring seamless switching between raster and vector workflows. |
+| **[Enve](https://github.com/MaurycyLiebner/enve)** | [![Stars](https://img.shields.io/github/stars/MaurycyLiebner/enve?style=social&color=white)](https://github.com/MaurycyLiebner/enve/stargazers) | Flexible, extensible 2D vector and raster animation workstation for Linux and Windows with audio integration, path morphing, shaders, and hardware acceleration. |
+| **[Wick Editor](https://github.com/Wicklets/wick-editor)** | [![Stars](https://img.shields.io/github/stars/Wicklets/wick-editor?style=social&color=white)](https://github.com/Wicklets/wick-editor/stargazers) | Beginner-friendly browser-based and desktop 2D animation and game creation platform inspired by Adobe Flash and HyperCard, designed for schools and indie creators. |
+| **[AnimeEffects](https://github.com/hidefuku/AnimeEffects)** | [![Stars](https://img.shields.io/github/stars/hidefuku/AnimeEffects?style=social&color=white)](https://github.com/hidefuku/AnimeEffects/stargazers) | Keyframe-driven 2D sprite and character animation tool that animates polygon meshes, free-form deformation, bone deformation, and image filters for 2D game assets. |
+| **[VPaint](https://github.com/dalboris/vpaint)** | [![Stars](https://img.shields.io/github/stars/dalboris/vpaint?style=social&color=white)](https://github.com/dalboris/vpaint/stargazers) | Vector graphics and 2D animation editor based on the Vector Animation Complex (VAC) topology, supporting free-form vector painting, sculpt deformation, and morphing. |
+| **[Tahoma2D](https://github.com/tahoma2d/tahoma2d)** | [![Stars](https://img.shields.io/github/stars/tahoma2d/tahoma2d?style=social&color=white)](https://github.com/tahoma2d/tahoma2d/stargazers) | User-streamlined fork of OpenToonz focused on traditional 2D and stop-motion animation with enhanced interface customization, audio scrub, and simplified setup. |
+| **[StretchyStudio](https://github.com/MangoLion/stretchystudio)** | [![Stars](https://img.shields.io/github/stars/MangoLion/stretchystudio?style=social&color=white)](https://github.com/MangoLion/stretchystudio/stargazers) | Open-source 2D animation tool designed for turning static digital illustrations into mesh-deformable cut-out character puppets with interactive inverse kinematics. |
+| **[Glaxnimate](https://github.com/mbasaglia/glaxnimate)** | [![Stars](https://img.shields.io/github/stars/mbasaglia/glaxnimate?style=social&color=white)](https://github.com/mbasaglia/glaxnimate/stargazers) | Fast vector graphics and 2D animation editor with native support for Lottie, animated SVG, Rive, and direct integration into video editors like Kdenlive and Shotcut. |
 
-
-
-- **[Synfig Studio](https://github.com/synfig/synfig)**  
-
-  Free and open-source 2D vector animation software designed for film-quality animation using a bone-based and cut-out approach with powerful tweening and layering.
-
-
-
-- **[Pencil2D](https://github.com/pencil2d/pencil)**  
-
-  Simple, intuitive open-source tool for hand-drawn 2D animation and sketching, ideal for beginners, education, and lightweight frame-by-frame work.
-
-
-
-- **[Blender (Grease Pencil)](https://github.com/blender/blender)**  
-
-  Full 3D suite whose Grease Pencil system provides a powerful, production-ready 2D/2.5D animation and drawing environment used increasingly in professional pipelines.
-
-
-
-- **[Krita](https://github.com/KDE/krita)**  
-
-  Open-source digital painting application with a capable animation timeline, onion skinning, and frame management—excellent for hand-drawn 2D animation and illustration.
-
-
-
-- **[Glaxnimate](https://gitlab.com/mattbas/glaxnimate)**  
-
-  Open-source vector animation tool focused on modern, lightweight 2D animation with good support for Lottie and web-oriented workflows.
-
-
-
-- **[TupiTube / Tupi](https://github.com/maeflora/tupi)**  
-
-  Open-source 2D animation software aimed at children, education, and simple storytelling with an accessible interface.
-
-
-
-- **[Documentation and OpenToonz / Synfig / Pencil2D guides](https://opentoonz.github.io/e/)**  
-
-  Official and community documentation, tutorials, and pipeline examples for self-hosted and studio use of open 2D animation tools.
-
-
-
-- **[Lottie and web animation related open tools](https://github.com/airbnb/lottie)**  
-
-  Open formats and players that complement 2D animation software for delivering animations on web and mobile.
-
-
-
-- **[Community asset and plugin repositories](https://github.com/)**  
-
-  Brushes, rigs, scripts, and extensions that extend OpenToonz, Synfig, Krita, and Blender Grease Pencil.
-
-
-
-### Additional Strong Open-Source Options
-
-- Using **OpenToonz** for a full production-style 2D pipeline closest to traditional studio tools.
-
-- Choosing **Synfig Studio** for resolution-independent vector and cut-out animation.
-
-- Adopting **Pencil2D** or **Krita** for approachable hand-drawn frame-by-frame work.
-
-- Leveraging **Blender Grease Pencil** when 2D and 3D need to coexist in one package.
-
-- Combining open tools with free assets and community plugins for cost-effective indie and educational productions.
-
-- Accepting that major commercial packages (Toon Boom Harmony, Adobe Animate, Moho Pro, TVPaint) still dominate high-end studio pipelines, collaboration features, and specialized support.
-
-
-
-**Frameworks for building custom systems**: Start with **OpenToonz** or **Synfig** for core animation → use **Krita** or **Pencil2D** for drawing and cleanup → composite or finish in **Blender** if needed → export to standard formats or Lottie for delivery. Suitable for independent creators, schools, and smaller studios. Large productions often still rely on Toon Boom Harmony or similar commercial solutions for pipeline integration and support.
-
-
+---
 
 ## How to Contribute
 
 1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's commercial/SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
+2. Add or edit entries in `README.md` (keep tables neatly organized and sorted).
+3. Ensure accurate pricing, trial limits, repository star badges, and links.
+4. Submit a pull request with a concise description of changes.
 
 Star the repo if you find it useful!
-
-
 
 ## Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Animation software choices depend on pipeline needs, team skills, and output format. Open-source tools are powerful but may require more technical setup and lack certain commercial support or studio-specific features. This list is not production or training advice.
-
-
+- Animation software choices depend on production requirements, team skills, budget, and output format. Open-source tools are powerful but may require technical setup and lack certain commercial enterprise guarantees.
 
 ---
 
 **Made for animators, studios, educators, and open-creative-tool advocates.**
-
-Let's keep 2D animation accessible, expressive, and as open as practical.
