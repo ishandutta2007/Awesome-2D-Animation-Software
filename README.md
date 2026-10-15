@@ -1,36 +1,54 @@
-# Awesome-2D-Animation-Software
+<div align="center">
 
-## Top 2D Animation Software Ecosystem
+<img src="./assets/banner.svg" alt="Awesome 2D Animation Software Banner" width="100%" />
 
-**Curated List of Commercial Products & Open-Source GitHub Projects**
+# 🎬 Awesome 2D Animation Software 🚀
 
-*Focused on Traditional & Digital 2D Animation, Cut-Out, Frame-by-Frame, Vector Animation & Production Pipelines*
+### ✨ A Curated Directory of Industry-Standard Commercial Platforms & Open-Source 2D Animation Software ✨
 
-**Last updated: October 2026**
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-2D-Animation-Software?style=social)](https://github.com/ishandutta2007/Awesome-2D-Animation-Software/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-This repository tracks notable **commercial platforms** and **open-source projects** for **2D Animation Software**. These tools support frame-by-frame drawing, cut-out / puppet animation, vector and raster workflows, lip-sync, effects, and full production pipelines used in studios, independent creators, and education.
+<p align="center">
+  <b>A comprehensive guide to traditional frame-by-frame, cut-out skeletal rigging, vector tweening, pixel art sprite engines, and programmatic code-driven animation tools.</b>
+  <br />
+  <i>Comparing SaaS pricing models, free trial restrictions, studio market dynamics, and star-ranked open-source alternatives.</i>
+</p>
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS / Commercial Platforms](#saas--commercial-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
----
-
-## Sector Overview & Market Dynamics
-
-The global 2D animation software sector is estimated at **$2.7B to $4.8B** (projected to reach over **$7.5B** at a 5–8% CAGR), propelled by rising OTT streaming pipelines, gaming, social media content, and digital advertising. The market is **highly fragmented** across specialized traditional/hand-drawn suites, vector rigging engines, cloud-based video generators, and a powerful ecosystem of production-grade open-source tools—leaving no single vendor with a winner-take-all monopoly.
+</div>
 
 ---
 
-## SaaS / Commercial Platforms
+## 📑 Table of Contents
 
-| Product | Description | Valuation / Revenue (Company Size) | Pricing | Free Tier / Free Trial Limits |
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 Support](#-support)
+- [📈 Star History](#-star-history)
+- [🛠️ How to Contribute](#️-how-to-contribute)
+- [⚖️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global **2D animation software market** is estimated at **$2.7B to $4.8B** (projected to expand past **$7.5B** at a 5–8% CAGR), propelled by rising demand across OTT streaming networks, indie game development, social media video pipelines, and interactive digital advertising. 
+
+The industry demonstrates **high market fragmentation** rather than a winner-take-all monopoly:
+- **Enterprise Broadcast & Feature Studios:** Highly customized vector and bitmap suites ([Toon Boom Harmony](https://www.toonboom.com/products/harmony), [CelAction2D](https://www.celaction.com/), [TVPaint](https://www.tvpaint.com/)) dominate established film and television pipelines.
+- **Web, Marketing & Rapid Content:** Cloud-based template engines ([Vyond](https://www.vyond.com/), [Animaker](https://www.animaker.com/)) dominate corporate L&D, explainer videos, and social media production.
+- **Indie Animators & Game Artists:** Versatile desktop tools ([Moho Pro](https://moho.lostmarble.com/), [Clip Studio Paint](https://www.clipstudio.net/en/), [Cartoon Animator](https://www.reallusion.com/cartoon-animator/)) serve digital comic artists and 2D game developers.
+- **Open-Source Powerhouses:** Robust, studio-grade free ecosystems ([Blender Grease Pencil](https://github.com/blender/blender), [OpenToonz](https://github.com/opentoonz/opentoonz), [Krita](https://github.com/KDE/krita)) provide viable alternatives that lower barriers to entry worldwide.
+
+---
+
+## 🏢 SaaS & Commercial Platforms
+
+| Product 🎨 | Description 📝 | Valuation / Revenue (Company Size) 🏢 | Pricing 💳 | Free Tier / Free Trial Limits ⏱️ |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Adobe Animate](https://www.adobe.com/products/animate.html)** | Versatile vector animation, frame-by-frame drawing, and interactive web/HTML5 export platform integrated with Adobe Creative Cloud. | **~$94B Market Cap** (Adobe Inc., NASDAQ: ADBE; ~$21B+ annual revenue) | From **$22.99/mo** (Annual plan, paid monthly) or **$34.49/mo** (Monthly plan) | **7-day free trial** (Full unrestricted access to all features; payment details required, auto-renews unless canceled). |
 | **[Toon Boom Harmony](https://www.toonboom.com/products/harmony)** | Premium studio-standard 2D animation suite with advanced rigging, node compositing, and hybrid paperless workflows. | **$111.4M ($147.5M CAD) Acquisition Valuation** (Acquired by IMC/TPG from Corus Entertainment in 2023) | **Essentials:** From **$22/mo** billed annually ($259/yr) or **$31/mo**; **Advanced:** $51/mo; **Premium:** $97/mo | **14-day free trial** (Full feature access to downloaded tier; single-use per version/machine). |
@@ -44,11 +62,11 @@ The global 2D animation software sector is estimated at **$2.7B to $4.8B** (proj
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 *Curated open-source animation engines, standalone suites, programmatic frameworks, and pixel-art tools sorted by GitHub star counts.*
 
-| Project | Stars | Description |
+| Project 🌟 | Stars ⭐ | Description 📖 |
 | :--- | :--- | :--- |
 | **[Remotion](https://github.com/remotion-dev/remotion)** | [![Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers) | Programmatic video and 2D animation framework allowing developers to build frame-accurate animated graphics and videos using React, HTML, CSS, and Canvas. |
 | **[Aseprite](https://github.com/aseprite/aseprite)** | [![Stars](https://img.shields.io/github/stars/aseprite/aseprite?style=social&color=white)](https://github.com/aseprite/aseprite/stargazers) | Industry-standard animated sprite editor and pixel art tool featuring onion skinning, timeline layers, tilesets, and frame-by-frame game animation. |
@@ -57,7 +75,7 @@ The global 2D animation software sector is estimated at **$2.7B to $4.8B** (proj
 | **[Motion Canvas](https://github.com/motion-canvas/motion-canvas)** | [![Stars](https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social&color=white)](https://github.com/motion-canvas/motion-canvas/stargazers) | Code-driven 2D animation toolkit and visual editor for creating programmatic motion graphics, interactive diagrams, and technical animations via TypeScript. |
 | **[Krita](https://github.com/KDE/krita)** | [![Stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers) | Full-featured digital sketching and painting workstation with built-in frame-by-frame raster animation timeline, audio playback, onion skinning, and export tools. |
 | **[OpenToonz](https://github.com/opentoonz/opentoonz)** | [![Stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers) | Production-grade 2D animation suite based on the software customized by Studio Ghibli, featuring x-sheets, scanning, vector/bitmap drawing, effects, and camera work. |
-| **[Synfig Studio](https://github.com/synfig/synfig)** | [![Stars](https://img.shields.io/github/synfig/synfig?style=social&color=white)](https://github.com/synfig/synfig/stargazers) | Film-quality 2D vector animation software designed to eliminate manual in-betweening via automatic morphing tweening, cutout bone rigging, and parametric layers. |
+| **[Synfig Studio](https://github.com/synfig/synfig)** | [![Stars](https://img.shields.io/github/stars/synfig/synfig?style=social&color=white)](https://github.com/synfig/synfig/stargazers) | Film-quality 2D vector animation software designed to eliminate manual in-betweening via automatic morphing tweening, cutout bone rigging, and parametric layers. |
 | **[Pencil2D](https://github.com/pencil2d/pencil)** | [![Stars](https://img.shields.io/github/stars/pencil2d/pencil?style=social&color=white)](https://github.com/pencil2d/pencil/stargazers) | Lightweight, accessible application for traditional hand-drawn 2D animation, featuring seamless switching between raster and vector workflows. |
 | **[Enve](https://github.com/MaurycyLiebner/enve)** | [![Stars](https://img.shields.io/github/stars/MaurycyLiebner/enve?style=social&color=white)](https://github.com/MaurycyLiebner/enve/stargazers) | Flexible, extensible 2D vector and raster animation workstation for Linux and Windows with audio integration, path morphing, shaders, and hardware acceleration. |
 | **[Wick Editor](https://github.com/Wicklets/wick-editor)** | [![Stars](https://img.shields.io/github/stars/Wicklets/wick-editor?style=social&color=white)](https://github.com/Wicklets/wick-editor/stargazers) | Beginner-friendly browser-based and desktop 2D animation and game creation platform inspired by Adobe Flash and HyperCard, designed for schools and indie creators. |
@@ -69,20 +87,44 @@ The global 2D animation software sector is estimated at **$2.7B to $4.8B** (proj
 
 ---
 
-## How to Contribute
+## 🤝 Support
 
-1. Fork the repo.
-2. Add or edit entries in `README.md` (keep tables neatly organized and sorted).
-3. Ensure accurate pricing, trial limits, repository star badges, and links.
-4. Submit a pull request with a concise description of changes.
+Thank you for visiting and supporting **Awesome-2D-Animation-Software**! 💖
 
-Star the repo if you find it useful!
+If you found this curated list helpful for your animation projects, pipelines, or research, please consider:
+- 🌟 **Starring** this repository to help others discover it
+- 🍴 **Forking** and contributing new animation software or updates
+- 📢 **Sharing** with fellow animators, digital artists, developers, and educators
+- ☕ **Buying a coffee / Sponsoring** the maintainer via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
 
-## Disclaimer
+Your support fuels continued maintenance, updates, and open-source creative resources!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.com/#ishandutta2007/Awesome-2D-Animation-Software&Date)](https://star-history.com/#ishandutta2007/Awesome-2D-Animation-Software&Date)
+
+[![Star History Chart](https://star-history.dera.page/svg?reoos=ishandutta2007/Awesome-2D-Animation-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-2D-Animation-Software&type=date&legend=top-left)
+
+---
+
+## 🛠️ How to Contribute
+
+1. 🍴 Fork the repository.
+2. 📝 Add or edit entries in `README.md` (keep tables neatly organized and sorted).
+3. 🔍 Ensure accurate pricing, trial limits, repository star badges, and links.
+4. 🚀 Submit a pull request with a concise description of changes.
+
+---
+
+## ⚖️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Animation software choices depend on production requirements, team skills, budget, and output format. Open-source tools are powerful but may require technical setup and lack certain commercial enterprise guarantees.
 
 ---
 
-**Made for animators, studios, educators, and open-creative-tool advocates.**
+<div align="center">
+  <b>Made with ❤️ for animators, studios, educators, and open-creative-tool advocates.</b>
+</div>
