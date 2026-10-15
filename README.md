@@ -9,7 +9,7 @@
 [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-2D-Animation-Software?style=social)](https://github.com/ishandutta2007/Awesome-2D-Animation-Software/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-2D-Animation-Software?style=social)](https://github.com/ishandutta2007/Awesome-2D-Animation-Software/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -64,9 +64,9 @@ The industry demonstrates **high market fragmentation** rather than a winner-tak
 
 ## 💻 Open-Source GitHub Projects
 
-*Curated open-source animation engines, standalone suites, programmatic frameworks, and pixel-art tools sorted by GitHub star counts.*
+*Curated open-source animation engines, standalone suites, programmatic frameworks, and pixel-art tools sorted by GitHub Stars_Counts.*
 
-| Project 🌟 | Stars ⭐ | Description 📖 |
+| Project 🌟 | GitHub_Stars ⭐ | Description 📖 |
 | :--- | :--- | :--- |
 | **[Remotion](https://github.com/remotion-dev/remotion)** | [![Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers) | Programmatic video and 2D animation framework allowing developers to build frame-accurate animated graphics and videos using React, HTML, CSS, and Canvas. |
 | **[Aseprite](https://github.com/aseprite/aseprite)** | [![Stars](https://img.shields.io/github/stars/aseprite/aseprite?style=social&color=white)](https://github.com/aseprite/aseprite/stargazers) | Industry-standard animated sprite editor and pixel art tool featuring onion skinning, timeline layers, tilesets, and frame-by-frame game animation. |
@@ -113,7 +113,7 @@ Your support fuels continued maintenance, updates, and open-source creative reso
 
 1. 🍴 Fork the repository.
 2. 📝 Add or edit entries in `README.md` (keep tables neatly organized and sorted).
-3. 🔍 Ensure accurate pricing, trial limits, repository star badges, and links.
+3. 🔍 Ensure accurate pricing, trial limits, repository Stars_Badges, and links.
 4. 🚀 Submit a pull request with a concise description of changes.
 
 ---
